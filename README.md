@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**lidiagaldino/lidiagaldino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Lídia 
 
-Here are some ideas to get you started:
+Welcome to my Github!
+- I'm 16 years old.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Studying at <a href="https://jandira.sp.senai.br" target="_blank">Senai Jandira</a>
+
+-  HTML, CSS, JS and Java
+
+-  Music lover
+
+<div align="center"><hr>
+  <a href="https://github.com/lidiagaldino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lidiagaldino"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidiagaldino&layout=compact&theme=gruvbox"/>
+</div>
