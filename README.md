@@ -1,10 +1,10 @@
 
-## I'm Lídia 
+## Hi, I'm Lídia :wink:
 
 Welcome to my Github!
-- I'm 16 years old.
+- I'm 16 years old. :robot:
 
--  Studying at <a href="https://jandira.sp.senai.br" target="_blank">Senai Jandira</a>
+-  Studying at <a href="https://jandira.sp.senai.br" target="_blank">Senai Jandira</a> 📚
 
 -  HTML, CSS, JS and Java
 
