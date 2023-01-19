@@ -14,8 +14,8 @@ Welcome to my Github!
 
 <div align="center"><hr>
   <a href="https://github.com/lidiagaldino">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lidiagaldino&theme=vision-friendly-dark"/> 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidiagaldino&layout=compact&theme=vision-friendly-dark"/>
+  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lidiagaldino&theme=vision-friendly-dark"/> 
+  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lidiagaldino&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
 ---
