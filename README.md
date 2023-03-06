@@ -39,6 +39,7 @@
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Fastify](https://img.shields.io/badge/-Fastify-0D1117?style=for-the-badge&logo=fastify&logoColor=1572B6&labelColor=0D1117)&nbsp;
    ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-0D1117?style=for-the-badge&logo=jetpack-compose&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  ![Golang](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
  ### TOOLS: 
 
