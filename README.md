@@ -13,9 +13,9 @@
 
 ### ABOUT ME:
 
-- I'm 17 years old. :robot:
+-  I'm 18 years old. :robot:
 
--  Systems Development at <a href="https://jandira.sp.senai.br" target="_blank">Senai Jandira</a> 🎓
+-  Systems Analysis and Development at IFSP 🎓
 
 -  Music lover 🎧
 
@@ -39,14 +39,14 @@
 ![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=White&labelColor=0D1117)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=White&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
    
  ### LEARNING: 
    
 ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Kafka](https://img.shields.io/badge/-Kafka-0D1117?style=for-the-badge&logo=kafka&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
  ### TOOLS: 
 
